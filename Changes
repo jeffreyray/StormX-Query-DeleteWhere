@@ -1,6 +1,8 @@
 Changes for perl module StormX::Query::DeleteWhere
 
 {{$NEXT}}
+
+0.200     2012-10-03 14:58:04
 - using Dist::Zilla
 
 0.01
